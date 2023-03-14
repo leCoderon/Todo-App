@@ -15,7 +15,6 @@ body {
 form {
     width: 70%;
     max-width: 700px;
-    min-width: 450px;
     margin: 50px auto 0;
     display: flex;
     padding: 20px;
@@ -43,7 +42,6 @@ form button {
 ul {
     width: 70%;
     max-width: 700px;
-    min-width: 450px;
     padding: 20px;
     margin: auto;
     background-color: #fff;
